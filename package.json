@@ -1,0 +1,15 @@
+{
+  "name": "use-is-clicked",
+  "version": "1.0.0",
+  "description": "React hook that tracks whether an element is clicked or not",
+  "main": "useIsClicked.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-hook"
+  ],
+  "author": "David Sanderson",
+  "license": "MIT",
+  "dependencies": {}
+}

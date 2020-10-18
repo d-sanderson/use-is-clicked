@@ -9,11 +9,11 @@ or
 
 - `yarn add use-is-clicked`
 
-To use, pass the:
+To use:
 
-- create a ref for the element you would like to track with useRef()
-- add `ref=[refName]` to the target element.
-
+- create a ref using the `useRef()` hook
+- add the ref to the target element using the `ref` attribute.
+- pass the ref to the `useIsClicked` hook.
   
 ```js/** @jsx jsx */
 import React, { useRef } from "react";

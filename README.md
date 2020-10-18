@@ -1,6 +1,6 @@
 # use-is-clicked
 
-a simple React hook that tracks whether an element or its descendant is clicked. This is useful for tracking a modal/dropdown state and enabling it to close if clicked away.
+🎯 a simple React hook that tracks whether an element or its descendant is clicked. This is useful for tracking a modal/dropdown state and enabling it to close if clicked away.
 
 To install:
 - `npm i use-is-clicked`

@@ -1,6 +1,6 @@
 {
   "name": "use-is-clicked",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React hook that tracks whether an element is clicked or not",
   "main": "useIsClicked.js",
   "scripts": {
@@ -10,6 +10,10 @@
     "react-hook"
   ],
   "author": "David Sanderson",
+  "repository": {
+		"type": "git",
+		"url": "git+https://github.com/d-sanderson/use-is-clicked.git"
+	},
   "license": "MIT",
   "dependencies": {}
 }
